@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Keep Your Health</string>
+    <string-array name="healthyfood">
+        <item>BSayur-Sayuran</item>
+        <item>uah-Buahan</item>
+        <item>Daging</item>
+        <item>Telur</item>
+        <item>Seafood</item>
+        <item>Kacang-Kacangan</item>
+        <item>Susu</item>
+    </string-array>
+    <string-array name="healthyfood_det">
+        <item>Sayuran hijau menempati urutan pertama dalam jenis makanan sehat karena kandungan nutrisi yang lengkap. Di antara jenis sayuran hijau, ada berbagai pilihan yang baik untuk dikonsumsi, seperti sawi hijau, brokoli, dan bayam dengan kandungan serat yang tinggi.</item>
+        <item>Selain sayur, buah juga sangat penting dikonsumsi karena mengandung banyak vitamin. Dari sekian banyak buah, beberapa buah yang populer dan kaya akan nutrisi, di antaranya adalah:
+
+Apel, karena banyak mengandung serat, vitamin C, dan antioksidan lain.
+Jeruk, yang tinggi kandungan vitamin C.
+Alpukat, yang kaya lemak sehat, kalium dan vitamin C.
+Pisang, sebagai salah satu sumber kalium.
+Buah-buahan berry, seperti blueberry dan strawberry. Selain rendah kalori, juga kaya akan antioksidan dan serat.</item>
+        <item>Daging merupakan salah satu makanan sehat yang banyak mengandung nutrisi.  Daging sapi tanpa lemak merupakan sumber protein dan zat besi yang lebih tinggi dibandingkan daging lainnya.</item>
+        <item>telur tergolong sebagai salah satu bahan makanan paling bergizi karena selain tinggi protein, telur juga memiliki kandungan nutrisi yang lengkap mulai dari vitamin, mineral, lemak tak jenuh, hingga zat antioksidan.</item>
+        <item>Ragam makanan laut terutama ikan, adalah jenis makanan sehat yang kaya asam lemak omega-3 dan yodium. Penelitian menunjukkan, orang yang sering makan ikan laut cenderung lebih panjang umur dan memiliki risiko lebih rendah terhadap banyak penyakit, termasuk penyakit jantung.</item>
+        <item>Kelompok makanan ini merupakan jenis makanan sehat yang renyah dan sarat akan nutrisi, termasuk magnesium dan vitamin E.</item>
+        <item>Susu sangat tinggi vitamin, mineral, protein hewani berkualitas dan lemak sehat. Selain itu, susu merupakan salah satu sumber kalsium terbaik. Anda juga bisa mengonsumsi susu dalam beragam bentuk produk olahan susu, seperti keju. Susu yang difermentasikan menjadi yoghurt, mengandung banyak bakteri baik untuk pencernaan.
+</item>
+    </string-array>
+    <string-array name="sport">
+        <item>Bersepeda</item>
+        <item>Yoga</item>
+        <item>Jogging or Running</item>
+        <item>Berenang</item>
+    </string-array>
+    <string-array name="sport_detail">
+        <item>Selain sebagai alat untuk rekreasi, bersepeda membuat tubuh bergerak aktif. Sebagaimana kita tahu, tubuh yang aktif adalah salah satu syarat penting untuk menjaga kualitas kesehatan kita. Bersepeda sendiri, jika dilakukan minimal 2,5 jam seminggu atau 30 menit setiap hari secara rutin memiliki dampak positif bagi kesehatan tubuh.</item>
+        <item>Yoga belakangan ini menjadi salah satu olahraga yang cukup diminati. Jika sebelumnya yoga lebih sering dikenal sebagai olahraga meditasi, kini yoga juga dipercaya dapat membakar kalori hingga dianggap baik untuk mencegah penyakit jantung, nyeri sendi, dan melawan stres.
+
+Yoga sebenarnya merupakan olahraga tubuh dan pikiran. Manfaat yoga tidak hanya membantu tubuh menjadi lebih segar dan bugar, tetapi juga dapat membantu mengendalikan stres dan mengurangi rasa mudah gelisah. Yoga memiliki beragam jenis dan gerakan. Bagi Anda yang baru mencoba yoga, mungkin Anda akan sedikit bingung menentukan jenis yoga apa yang cocok untuk Anda.</item>
+        <item>Salah satu aktivitas olahraga yang sangat populer dikalangan masyarakat adalah jogging. Dan manfaat olahraga jogging juga tidak kalah besar dengan manfaat jenis olahraga lari yang lainnya. Sehingga kepopuleran jogging semakin meningkat. Karena jogging dilakukan dengan cara berlari kecil sehingga olahraga ini juga dapat disebut dengan olahraga santai.
+
+Manfaat olahraga jogging
+
+Sebenarnya manfaat kesehatan lari yang diperoleh dari jogging tidak jauh berbeda dengan olahraga lari. Karena keduanya memiliki peranan yang sangat besar dalam menjaga kesehatan tubuh. Perbedaan dari keduanya yaitu bila olahraga jogging intensitas larinya lebih santai, sedangkan olahraga lari lebih cepat.</item>
+        <item>
+Berenang tak hanya baik bagi fisik tapi juga membantu mengurangi stres dan depresi.
+Berenang telah disebut latihan yang sempurna. Tubuh bisa mendapatkan semua manfaat dari latihan aerobik dengan berenang tanpa berdampak merusak pada sendi. Berenang juga bisa dilakukan oleh semua usia.
+
+
+Olahraga ini pun dimanfaatkan oleh para atlet untuk tetap kuat dan tetap bugar saat pulih dari cedera. Berenang masih memiliki serangkaian manfaat lain yang berguna, dikutip dari Lifehack.
+
+Renang Meningkatkan Bentuk dan Kekuatan Otot
+
+Perenang mendapatkan kekuatan otot di seluruh tubuh. Ketika pelari membuat otot terbentuk di kaki mereka, perenang menggunakan lebih banyak kelompok otot untuk bergerak melalui air.
+
+Sementara kaki menendang, lengan tertarik. Ketika punggung mencapai dan berputar, perut mengencangkan untuk menggerakkan kaki dan menstabilkan inti, menjadikan berenang sebagai salah satu latihan aerobik terbaik untuk memberikan latihan bagi seluruh tubuh.
+
+Renang Membentuk Massa Tulang
+
+Selama bertahun-tahun, para peneliti mencemooh gagasan berenang memengaruhi massa tulang. Hanya latihan beban yang mampu mencapai manfaat ini.
+
+Tapi, menurut penelitian yang dipublikasikan di Journal of Applied Physiology anggapan itu tidak benar. Ada alasan etis untuk menghindari pemeriksaan tulang yang mendalam pada manusia, penelitian ini memasukkan tikus ke dalam tiga kelompok, yaitu berlari, berenang, dan kelompok menjaga tanpa rangsangan latihan.
+
+Saat berlari masih menunjukkan peningkatan BMD tertinggi (Bone Mineral Density), kelompok renang juga menunjukkan manfaat pada BMD dan tulang femur. Sementara penelitian lebih lanjut diperlukan, temuan baru ini menunjukkan penelitian sebelumnya yang mengabaikan manfaat renang untuk tulang mungkin perlu ditinjau kembali.
+
+Renang Membantu Tetap Fleksibel
+
+Berenang mengharuskan seseorang untuk mencapai, meregangkan, memutar, dan menarik diri dalam air. Pergelangan kaki menjadi sirip dan ditarik dengan setiap tendangan saat mendorong melawan tekanan cairan. Peregangan berulang yang ditemukan dalam berbagai gerakan renang membantu menjaga fleksibilitas.
+
+Renang Mengurangi Peradangan
+
+Berenang bermanfaat untuk kardiovaskular dengan memperkuat otot jantung adalah pengetahuan umum. Namun, penelitian juga menunjukkan kegiatan seperti berenang, mengurangi peradangan yang mengarah ke atherosclerosis membangun di jantung. Mengurangi peradangan di seluruh sistem menyebabkan berkurangnya perkembangan penyakit di banyak area lain.
+
+Renang Buat Kalori Terbakar
+
+Semua orang tahu  berenang adalah cara yang bagus untuk membakar kalori. Namun, kebanyakan tidak menyadari itu bisa sama efisiennya dengan berenang di treadmill.
+
+Jumlah kalori yang terbakar tergantung pada intensitas dan gaya yang digunakan. Berenang dapat membakar kalori yang sama atau lebih besar daripada berlari.
+
+Misalnya, selama 10 menit berenang membakar 60 kalori dengan gaya dada, 80 kalori dengan gaya punggung, 100 kalori dengan gaya bebas, dan 150 yang mengesankan dengan gaya kupu-kupu. Sedangkan jalan 10 menit membakar sekitar 100 kalori. Oleh karena itu, sesi gaya kupu-kupu 30 menit yang kuat dapat membakar 150 kalori lebih banyak daripada berjalan 5 km dalam rentang waktu yang sama.
+
+Renang Dapat Menekan Asma yang Dipicu Latihan
+
+Sulit bernapas ketika berolahraga sangat membuat frustasi. Hanya saja, dengan berenang memungkinkan untuk menghirup udara lembab saat berlatih. Dengan cara itu akan membantu meringankan gejala asma, bahkan penelitian telah menunjukkan dapat meningkatkan kondisi keseluruhan paru-paru.
+
+Berenang Menurunkan Stres dan Depresi
+
+Dengan berenang sama dengan memompa endorphin alami. Hormon bahagia ini bisa membuat perasaan terasa lebih baik.
+
+Selain hormon bahagia, perenang juga bisa merasakan respons relaksasi yang mirip dengan yoga. Berenang membentang tubuh terus-menerus dengan pernapasan ritmis yang dalam, tubuh dapat mengalami relaksasi yang sangat unik.
+
+Berenang juga menenangkan dan meditatif, karena suara napas dan air yang mengalir dengan cepat membantu fokus ke dalam dan menenggelamkan semua gangguan lainnya. Ini menurunkan stres dan depresi secara alami.
+
+Berenang di Air Garam Perawatan Kecantikan untuk Kulit
+
+Berenang secara teratur di air asin membantu kulit mempertahankan kelembapan dan detoksifikasi untuk meningkatkan pertumbuhan sel baru. Kulit akan terlihat lebih segar setelah berenang di lautan.
+
+Renang Membuat Lebih Cerdas
+
+Tentu saja semua latihan itu bagus untuk pikiran, namun dapatkah berenang benar-benar membuat lebih pintar? Penelitian dari Australia berfokus pada anak-anak yang mengambil pelajaran renang dibandingkan dengan kelompok non-perenang.
+
+Hasil penelitian menunjukkan anak-anak yang secara teratur berpartisipasi dalam berenang mampu menguasai perkembangan bahasa, keterampilan motorik halus, kepercayaan diri, dan perkembangan fisik lebih cepat daripada kelompok yang tidak aktif renang. Berenang juga dapat membantu dengan keterampilan matematika, karena perenang secara teratur menghitung jarak berenang di set atau latihan interval untuk menempatkan keterampilan menambah dan mengurangi dalam latihan.
+
+Berenang Memperpanjang Hidup
+
+Semua olahraga dapat menghasilkan kondisi terbaik untuk kesehatan dan umur panjang. Studi menunjuk pada berenang sebagai salah satu pilihan terbaik untuk melakukannya.
+
+Para peneliti di University of South Carolina mengamati 40.547 pria, berusia 20 hingga 90 tahun, selama lebih dari 32 tahun. Hasilnya menunjukkan mereka yang berenang memiliki tingkat kematian 50 persen lebih rendah daripada pelari, pejalan kaki, atau pria yang tidak berolahraga.</item>
+    </string-array>
+    <string name="about">Aplikasi ini dibuat karena minimnya orang yang menyadari akan pentingnya makanan dan olahraga dalam kesehatan tubuh.\n \nAplikasi ini terinspirasi mendapat support dari "Health Care".</string>
+    <string name="profile">Just a creature with big dream and wanna to be free</string>
+</resources>
